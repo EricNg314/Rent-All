@@ -1,6 +1,6 @@
 # Rent-All
 
-Project to all ow users to rent out to, or rent from other users thus,  in this project provider posts items to rent on the Rent-All website. User selects an item user wants to rent and for how long user wants to rent the item. Once an item has been rented, the item will not be available for rent to other users.
+Project to allow users to rent out and from other users on the Rent-All website. User selects an item they wants to rent and for how long user wants to rent the item. Once an item has been rented, the item's availability date will decrease until it's no longer available.
 
 This is ideal for people who need items for a short duration but do not want to purchase the items can now rent. 
 
